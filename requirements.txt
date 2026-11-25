@@ -1,0 +1,32 @@
+📢 CHANEL-post Bot
+
+A professional Telegram Channel & Group Post Maker Bot.
+
+✨ Features
+
+- Create Text, Photo & Video Posts
+- Add Inline URL Buttons
+- Set Target Channel or Group
+- My Targets & Post History
+- Owner Panel
+- Broadcast Messages
+- Force Join System
+- Edit Bot Posts
+- Custom Welcome Media
+
+🛠 Language
+
+Python 3
+
+🚀 Deployment
+
+1. Upload the bot files to GitHub.
+2. Add the required dependencies in "requirements.txt".
+3. Set "BOT_TOKEN" and "OWNER_ID" in environment variables.
+4. Start the bot using the configured start command.
+
+👑 Owner
+
+@BLOOD_VORTEX_1
+
+Powered by @BLOOD_VORTEX_1
